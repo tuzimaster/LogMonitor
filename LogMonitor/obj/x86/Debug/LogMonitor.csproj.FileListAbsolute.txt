@@ -1,0 +1,18 @@
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\bin\Debug\LogMonitor.exe
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\bin\Debug\LogMonitor.pdb
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\LogMonitor.View.resources
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\LogMonitor.Properties.Resources.resources
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\LogMonitor.exe
+C:\Users\Tuzi\AppData\Local\Temporary Projects\LogMonitor\obj\x86\Debug\LogMonitor.pdb
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\LogMonitor.exe
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\LogMonitor.pdb
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\bin\Debug\LogMonitor.pdb
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\LogMonitor.View.resources
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\LogMonitor.Properties.Resources.resources
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tuzi\documents\visual studio 2010\Projects\LogMonitor\LogMonitor\obj\x86\Debug\GenerateResource.write.1.tlog
